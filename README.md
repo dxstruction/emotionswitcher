@@ -9,7 +9,6 @@
 - 🎨 **7 доступных эмоций**: Neutral, Happy, AwkwardSmile, Scared, Angry, Chad, Ogre
 - 🎯 **Простое управление**: Нажмите клавишу NoClip для переключения эмоции
 - ⚡ **Умная фильтрация**: Работает только для определенных ролей
-- 🛡️ **Безопасность**: NoClip остается заблокированным для обычных игроков
 
 #### 🚫 Ограничения
 
@@ -66,7 +65,6 @@ emotion_switcher:
 - 🎨 **7 Available Emotions**: Neutral, Happy, AwkwardSmile, Scared, Angry, Chad, Ogre
 - 🎯 **Simple Controls**: Press NoClip key to switch emotions
 - ⚡ **Smart Filtering**: Works only for specific roles
-- 🛡️ **Security**: NoClip remains blocked for regular players
 
 #### 🚫 Restrictions
 
